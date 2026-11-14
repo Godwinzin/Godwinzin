@@ -41,18 +41,6 @@ I'm a Web Developer passionate about building modern, responsive, and user-frien
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
-### Featured Projects
-
-**Baraka Farm**
-
-A full-stack web application built using React, Node.js, Express.js, and PostgreSQL.
-
-- Frontend: React
-- Backend: Node.js and Express.js
-- Database: PostgreSQL
-
-[View Project](https://github.com/Godwinzin/Baraka-Farm)
-
 ### Currently Learning
 
 - TypeScript
@@ -64,8 +52,8 @@ A full-stack web application built using React, Node.js, Express.js, and Postgre
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Godwinzin&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=64748b" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwinzin&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=64748b" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub Statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ### Let's Connect
